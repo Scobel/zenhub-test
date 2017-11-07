@@ -8,3 +8,5 @@ So that *desired outcome*
 - [ ] acceptance criteria 2
 - [ ] acceptance criteria 3
 - [ ] acceptance criteria 4
+
+Tesera Standard Template
